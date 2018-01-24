@@ -25,6 +25,8 @@ h1{
 
 h1 > span{
 	color: #FF9955;
+	color: #F34F29;
+	text-shadow: 1px 1px #FF9955;
 	font-family: 'Collegia';
 	font-size: 5rem;
 }
@@ -37,5 +39,6 @@ h1 > span{
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	flex-direction: column;
 }
 
